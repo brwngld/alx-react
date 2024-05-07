@@ -1,0 +1,24 @@
+{
+  "name": "task_0",
+  "version": "1.0.0",
+  "description": "Alx webpack project",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "bugs": {
+    "url": "https://github.com/brwngld/alx-react",
+    "email": "bern587@yahoo.com"
+  },
+  "keywords": [],
+  "homepage": "https://github.com/brwngld/alx-react",
+  "author": "brwngld",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
